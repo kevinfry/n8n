@@ -10,9 +10,10 @@ Kevin Fry's n8n development. Hint's and tricks into developing automated workflo
 
 ```bash
 #!/bin/bash
-
 # day of the year (1-366)
 date +%j
+# date YYYY-MM-DD
+date +%Y-%m-%d
 ```
 
 ## HTML
