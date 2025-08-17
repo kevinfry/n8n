@@ -35,13 +35,13 @@
 
 **Business Model Selection Worksheet:**
 
-| Model Type | Best For | Startup Cost | Time to Revenue | Scalability |
-|------------|----------|--------------|-----------------|-------------|
-| Product-based (Physical) | Inventors, Creators | High ($5K-50K) | 3-6 months | Medium |
-| Product-based (Digital) | Tech-savvy, Content creators | Low ($100-1K) | 1-3 months | High |
-| Service-based | Consultants, Freelancers | Very Low ($0-500) | Immediate | Low-Medium |
-| Affiliate Marketing | Marketers, Influencers | Very Low ($0-100) | 2-6 months | High |
-| SaaS/Software | Developers, Tech entrepreneurs | Medium ($2K-20K) | 6-12 months | Very High |
+| Model Type               | Best For                       | Startup Cost      | Time to Revenue | Scalability |
+|--------------------------|--------------------------------|-------------------|-----------------|-------------|
+| Product-based (Physical) | Inventors, Creators            | High ($5K-50K)    | 3-6 months      | Medium      |
+| Product-based (Digital)  | Tech-savvy, Content creators   | Low ($100-1K)     | 1-3 months      | High        |
+| Service-based            | Consultants, Freelancers       | Very Low ($0-500) | Immediate       | Low-Medium  |
+| Affiliate Marketing      | Marketers, Influencers         | Very Low ($0-100) | 2-6 months      | High        |
+| SaaS/Software            | Developers, Tech entrepreneurs | Medium ($2K-20K)  | 6-12 months     | Very High   |
 
 ### Defining Your Niche
 
@@ -194,12 +194,12 @@ Example: 2024-03-15_BlogPost_SEO-Guide_v2.docx
 
 **Monthly Content Planning (30-day cycle):**
 
-| Week | Blog Posts | Social Media | Email | Video |
-|------|------------|--------------|-------|-------|
-| 1 | Educational (How-to) | 5 posts (mix of content types) | Newsletter | Tutorial |
-| 2 | Case Study/Success Story | 5 posts + 2 stories | Product spotlight | Behind-the-scenes |
-| 3 | Industry News/Trends | 5 posts + 2 stories | Customer features | FAQ/Q&A |
-| 4 | Personal/Behind-scenes | 5 posts + 2 stories | Month recap + preview | Live stream |
+| Week | Blog Posts               | Social Media                   | Email                 | Video             |
+|------|--------------------------|--------------------------------|-----------------------|-------------------|
+| 1    | Educational (How-to)     | 5 posts (mix of content types) | Newsletter            | Tutorial          |
+| 2    | Case Study/Success Story | 5 posts + 2 stories            | Product spotlight     | Behind-the-scenes |
+| 3    | Industry News/Trends     | 5 posts + 2 stories            | Customer features     | FAQ/Q&A           |
+| 4    | Personal/Behind-scenes   | 5 posts + 2 stories            | Month recap + preview | Live stream       |
 
 **Content Themes by Day:**
 - **Monday:** Motivation Monday (inspirational content)
@@ -216,14 +216,14 @@ Example: 2024-03-15_BlogPost_SEO-Guide_v2.docx
 
 ### Website Platform Comparison
 
-| Platform | Best For | Monthly Cost | Ease of Use | Customization | E-commerce |
-|----------|----------|--------------|-------------|---------------|------------|
-| WordPress.com | Blogs, Small sites | $4-45 | Medium | Medium | Limited |
-| WordPress.org | Full control | $5-50+ | Hard | High | Excellent |
-| Squarespace | Design-focused | $12-40 | Easy | Medium | Good |
-| Wix | Beginners | $14-39 | Very Easy | Medium | Good |
-| Shopify | E-commerce | $29-299 | Medium | Medium | Excellent |
-| Webflow | Designers | $12-36 | Hard | Very High | Limited |
+| Platform      | Best For           | Monthly Cost | Ease of Use | Customization | E-commerce |
+|---------------|--------------------|--------------|-------------|---------------|------------|
+| WordPress.com | Blogs, Small sites | $4-45        | Medium      | Medium        | Limited    |
+| WordPress.org | Full control       | $5-50+       | Hard        | High          | Excellent  |
+| Squarespace   | Design-focused     | $12-40       | Easy        | Medium        | Good       |
+| Wix           | Beginners          | $14-39       | Very Easy   | Medium        | Good       |
+| Shopify       | E-commerce         | $29-299      | Medium      | Medium        | Excellent  |
+| Webflow       | Designers          | $12-36       | Hard        | Very High     | Limited    |
 
 ### Technical Setup Checklist
 
