@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Newsletter {{ $json.today.doy }} {{ $json.today.prompt }}" />
+    <meta name="author" content="BotAdmins" />
+    <title>BotAdmins - Newsletter 2025-{{ $json.today.doy }} {{ $json.today.prompt }}</title>
+    <meta name="description" content="Newsletter for BotAdmins, the administrators for websites, AI Chatbots and Automated Workflows. {{ $json.today.prompt }} " />
+    <meta name="keywords" content="newsletter, BotAdmins, AI Chatbots, Automated Workflows, website administration" />
+    <meta name="author" content="BotAdmins">
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@hackermarketing"/>
+    <meta name="twitter:creator" content="@hackermarketing"/>
+    <meta property="og:site_name" content="BotAdmins"/>
+    <meta property="og:title" content="Botadmins Newsletter 2025-{{ $json.today.doy }} {{ $json.today.imgPrompt }} and other AI things"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://botadmins.com/doy/{{ $json.today.doy }}.html"/>
+    <meta property="og:url" content="https://botadmins.b-cdn.net/img/ai/{{ $json.today.doy }}.png"/>
+    <meta property="og:description" content="{{ $json.today.prompt }} and {{ $json.today.prompt }}" />
+    <meta property="og:locale" content="en_US"/>
+    <!-- IMAGE -->
+    <meta property="og:image" content="https://botadmins.b-cdn.net/img/ai/{{ $json.today.doy }}.png"/>
+    <meta property="og:image:url" content="https://botadmins.b-cdn.net/img/ai/{{ $json.today.doy }}.png"/>
+    <meta property="og:image:secure_url" content="https://botadmins.b-cdn.net/img/ai/{{ $json.today.doy }}.png"/>
+    <meta property="og:image:type" content="image/png"/>
+    <meta property="og:image:width" content="1024"/>
+    <meta property="og:image:height" content="1024"/>
+    <meta property="og:image:alt" content="{{ $json.today.imgPrompt }}"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://botadmins.b-cdn.net/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://botadmins.b-cdn.net/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://botadmins.b-cdn.net/favicon-16x16.png">
+    <link rel="manifest" href="https://botadmins.b-cdn.net/site.webmanifest">
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="https://botadmins.b-cdn.net/css/styles.css" rel="stylesheet" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3493675044361035"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>BotAdmins Newsletter 2025-{{ $json.today.doy }}: {{ $json.today.prompt }} and other things AI</h1>
+    <h6>Last Updated: {{ $now.format('yyyy-MM-dd') }}  {{ $now }}</h6>
+    <hr><h2>Quincy, MA 02169 Forecast</h2>
+    {{ $json.today.forecast }}
+    <hr><h2>Joke of the day</h2>
+    {{ $json.today.joke }}
+    <hr><h2>AI/Dev/Tech News Summary</h2>
+    {{ $json.today.funkoNew }}
+    <hr><h2>AI Prompt of the day</h2>
+    {{ $json.today.prompt }}
+    <hr><h2>AI Response</h2>
+    {{ $json.today.aiRespHTML }}
+    <hr><h2>Image Prompt of the Day</h2>
+    <p>{{ $json.today.imgPrompt }}</p><br><img src="https://botadmins.b-cdn.net/img/ai/{{ $json.today.doy }}.png" alt="{{ $json.today.imgPrompt }}" class="img-fluid">
+    <hr>
+    <p style="text-align: center">Visit <a href="https://botadmins.com/">BotAdmins</a> for done for you business solutions.</p>
+  </div>
+  <script src="https://app.aminos.ai/js/chat_plugin.js" data-bot-id="45989"></script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5Y1447GL3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y5Y1447GL3');
+</script>
+</body>
+</html>
+
+<script>
+console.log("Hello World!");
+</script>
